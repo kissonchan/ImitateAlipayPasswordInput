@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="inputBox">
+        <attr name="passwordCount" format="integer"/>
+        <attr name="stokeColor" format="color"/>
+        <attr name="symbolColor" format="color"/>
+        <attr name="symbolRadius" format="dimension"/>
+        <attr name="inputBoxStroke" format="dimension"/>
+
+    </declare-styleable>
+    <declare-styleable name="materialStatusProgressAttr">
+        <attr name="arcColor" format="reference|color"/>
+        <attr name="progressBarBorderWidth" format="dimension"/>
+    </declare-styleable>
+</resources>
